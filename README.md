@@ -16,11 +16,10 @@ DATA FILES
 
 INSTRUCTIONS TO EXECUTE CODE & REPRODUCE THE DATABASE
 =====================================================
-1)
-2)
-3)
-4)
-5)
+1) Download files as specified above.  NOTE: They must be placed within a 'data' directory
+    in the same folder as where the t5_etl_project.ipynb exists.
+2) In pgAdmin4, import & run the sqltables.sql file to create the tables.
+3) Run the t5_etl_project.ipynb jupyter notebook.
 
 
 
