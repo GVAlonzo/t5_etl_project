@@ -1,10 +1,15 @@
+-- THESE QUERIES ARE FOR RE-RUNNING AND/OR TESTING PURPOSES ONLY
 -- DROP TABLE bike_trip;
 -- DROP TABLE station;
+
+-- THESE QUERIES ARE FOR RE-RUNNING AND/OR TESTING PURPOSES ONLY
+-- DELETE FROM bike_trip;
+-- DELETE FROM station;
 
 -- Create tables for raw data to be loaded into
 CREATE TABLE station (
 station_id TEXT PRIMARY KEY,
-lattitude FLOAT,
+latitude FLOAT,
 longitude FLOAT);
 
 CREATE TABLE bike_trip (
