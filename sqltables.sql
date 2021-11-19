@@ -1,5 +1,5 @@
-DROP TABLE bike_trip;
-DROP TABLE station;
+-- DROP TABLE bike_trip;
+-- DROP TABLE station;
 
 -- Create tables for raw data to be loaded into
 CREATE TABLE station (
