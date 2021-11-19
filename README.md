@@ -14,10 +14,10 @@ ETL Project Repository File for Team 5
 
 # INSTRUCTIONS TO EXECUTE CODE & REPRODUCE THE DATABASE
 Step 1: Download files as specified above.  
-Step 2: Create a **data** directory that resides in the same directory as the **t5_etl_project.ipynb** jupyter notebook.
-Step 3: Place the extracted CSV files from each of the ZIP files into the **data** directory.
-Step 4: In pgAdmin4, import & run the sqltables.sql file to create the tables.
-Step 5: Run the t5_etl_project.ipynb jupyter notebook.
+Step 2: Create a **data** directory that resides in the same directory as the **t5_etl_project.ipynb** jupyter notebook.  
+Step 3: Place the extracted CSV files from each of the ZIP files into the **data** directory.  
+Step 4: In pgAdmin4, import & run the sqltables.sql file to create the tables.  
+Step 5: Run the t5_etl_project.ipynb jupyter notebook.  
 
 
 
