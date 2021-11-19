@@ -24,3 +24,6 @@ ETL Project Repository File for Team 5
 
 # TECHNICAL REPORT
 Please see jupyter notebook for information on the Overview, Extract, Transform, and Load processes.
+
+
+![Screenshot](QuickDBD-export.png)
